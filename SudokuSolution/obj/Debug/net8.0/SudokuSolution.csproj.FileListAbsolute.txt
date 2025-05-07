@@ -1,0 +1,17 @@
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\bin\Debug\net8.0\SudokuSolution.exe
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\bin\Debug\net8.0\SudokuSolution.deps.json
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\bin\Debug\net8.0\SudokuSolution.runtimeconfig.json
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\bin\Debug\net8.0\SudokuSolution.dll
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\bin\Debug\net8.0\SudokuSolution.pdb
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.csproj.AssemblyReference.cache
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.AssemblyInfoInputs.cache
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.AssemblyInfo.cs
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.csproj.CoreCompileInputs.cache
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSo.F7145146.Up2Date
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.dll
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\refint\SudokuSolution.dll
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.pdb
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\SudokuSolution.genruntimeconfig.cache
+D:\AlgoritmoCompletarSudoku\SudokuSolution\SudokuSolution\obj\Debug\net8.0\ref\SudokuSolution.dll
